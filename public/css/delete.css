@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.delete {
+    padding: 15px;
+}
+
+.delete-title__text {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}
+
+.delete-form__input {
+    display: block;
+}
+
+.delete-confirm__text {
+    margin: 15px 0;
+    color: #FF0000;
+    font-weight: bold;
+}
+
+.delete-btn {
+    border: none;
+    background-color: #FFF;
+    color: purple;
+    margin-left: 15px;
+}
+
+.delete-btn:hover {
+    cursor: pointer;
+}

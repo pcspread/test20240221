@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.complete {
+    padding: 15px;
+}
+
+.complete-title__text {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}

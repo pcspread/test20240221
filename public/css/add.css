@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.add {
+    padding: 15px;
+}
+
+.add-title__text {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}
+
+.add__comment {
+    color: #FF0000;
+}
+
+.add-form__input {
+    display: block;
+}
+
+.add-form___error {
+    color: #FF0000;
+}
+
+.add-btn {
+    margin-top: 15px;
+}

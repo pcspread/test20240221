@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.tests {
+    padding: 15px;
+}
+
+.tests-title__text {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}
+
+.tests-other {
+    padding-top: 15px;
+}
+
+.tests__sort-btn {
+    padding: 0 15px;
+    color: #60CCAA;
+}
+
+.search-area {
+    padding: 15px 0;
+}
+
+.tests-table {
+    border-collapse: collapse;
+}
+
+.test-title {
+    width: 10%;
+    border-bottom: 1px solid #AAA;
+}
+
+.test-content {
+    text-align: center;
+    border-bottom: 1px solid #AAA;
+}
